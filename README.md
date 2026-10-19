@@ -15,7 +15,7 @@ AI Enablement @ Monash eSolutions and (learning) cybersecurity.
 
 #### Homelab
 
-Documentation for my homelab (wip, repo coming soon):
+[Documentation for my homelab](https://github.com/Ysjin33/homelab-docs):
 
 * network
 * storage
