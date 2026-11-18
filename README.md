@@ -23,7 +23,6 @@ AI Enablement @ Monash eSolutions and (learning) cybersecurity.
 * services
 * runbooks
 
-<!--
 #### Projects
 
 <details open>
@@ -31,8 +30,6 @@ AI Enablement @ Monash eSolutions and (learning) cybersecurity.
     Cybersecurity
   </summary>
 
-  * [Project name](link) - one line on what it is
-  * [Project name](link) - one line on what it is
   * [Project name](link) - one line on what it is
 
 </details>
@@ -43,12 +40,9 @@ AI Enablement @ Monash eSolutions and (learning) cybersecurity.
   </summary>
 
   * [Project name](link) - one line on what it is
-  * [Project name](link) - one line on what it is
-  * [Project name](link) - one line on what it is
 
 </details>
--->
 
 #### Contact
 
-* [LinkedIn](https://www.linkedin.com/in/yunsoo-jin/) · [email](mailto:ysjin6251@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/yunsoo-jin/) · [email](mailto:ysjin6251@gmail.com) · [Hack The Box] (https://profile.hackthebox.com/profile/019e4aa5-2792-7145-9f03-a9bf448414be?utm_medium=copy_url)
