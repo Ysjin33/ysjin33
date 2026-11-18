@@ -45,4 +45,4 @@ AI Enablement @ Monash eSolutions and (learning) cybersecurity.
 
 #### Contact
 
-* [LinkedIn](https://www.linkedin.com/in/yunsoo-jin/) · [email](mailto:ysjin6251@gmail.com) · [Hack The Box] (https://profile.hackthebox.com/profile/019e4aa5-2792-7145-9f03-a9bf448414be?utm_medium=copy_url)
+* [LinkedIn](https://www.linkedin.com/in/yunsoo-jin/) · [email](mailto:ysjin6251@gmail.com) · [Hack The Box](https://profile.hackthebox.com/profile/019e4aa5-2792-7145-9f03-a9bf448414be?utm_medium=copy_url)
