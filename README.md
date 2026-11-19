@@ -4,14 +4,13 @@ AI Enablement @ Monash eSolutions and (learning) cybersecurity.
 
 #### Info
 
-* ex-COO of [Monash DeepNeuron](https://www.deepneuron.org/) for 2025/2026
+* Currently: AI Enablement @ Monash eSolutions
 * Bachelor of Computer Science (2026) & Master of Cybersecurity (2028) @ Monash University.
 * Interested in cybersecurity, cryptography, and AI security.
 
 #### Experience
-
-* Currently: AI Enablement @ Monash eSolutions
-* Previously: Machine Learning Engineer Intern @ Monash AI Institute
+* ex-COO of [Monash DeepNeuron](https://www.deepneuron.org/) for 2025/2026
+* Previously: Machine Learning Engineer Intern @ [Monash AI Institute](https://www.monash.edu/ai-institute)
 
 #### Homelab
 
